@@ -1,0 +1,933 @@
+[
+  {
+    "id": 1,
+    "question": "What is the speed of light?",
+    "topic": "Quantum Physics",
+    "options": [
+      "2.5*10^8",
+      "3.0*10^8",
+      "3.5*10^8",
+      "4.0*10^8"
+    ],
+    "answer": "3.0*10^8",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 2,
+    "question": "Define Planck's constant.",
+    "topic": "Quantum Physics",
+    "options": [
+      "4.135*10^-15",
+      "6.626*10^-34",
+      "8.9875*10^9",
+      "1.602*10^-19"
+    ],
+    "answer": "6.626*10^-34",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 3,
+    "question": "Which phenomenon is characterized by the simultaneous measurement of two complementary properties?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Entanglement",
+      "Superposition",
+      "Uncertainty principle",
+      "Quantum tunneling"
+    ],
+    "answer": "Uncertainty principle",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 4,
+    "question": "What is a quantum state?",
+    "topic": "Quantum Physics",
+    "options": [
+      "A definite state of a particle",
+      "A statistical description of a particle's properties",
+      "A superposition of possible states",
+      "A classical state"
+    ],
+    "answer": "A superposition of possible states",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 5,
+    "question": "Who formulated the Schrödinger equation?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Albert Einstein",
+      "Max Planck",
+      "Erwin Schrödinger",
+      "Niels Bohr"
+    ],
+    "answer": "Erwin Schrödinger",
+    "subject": "Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "id": 6,
+    "question": "What is the fundamental idea behind quantum entanglement?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Particles at rest",
+      "Particles connected in space",
+      "Particles correlated in such a way that the state of one is directly related to the state of the other",
+      "Particles moving at the speed of light"
+    ],
+    "answer": "Particles correlated in such a way that the state of one is directly related to the state of the other",
+    "subject": "Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "id": 7,
+    "question": "What is the Heisenberg uncertainty principle related to?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Position and velocity of a particle",
+      "Mass and energy of a particle",
+      "Spin and charge of a particle",
+      "Frequency and wavelength of a particle"
+    ],
+    "answer": "Position and velocity of a particle",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 8,
+    "question": "In quantum computing, what is a qubit?",
+    "topic": "Quantum Physics",
+    "options": [
+      "A classical bit",
+      "A quantum bit",
+      "A superposition state",
+      "A quantum entangled state"
+    ],
+    "answer": "A quantum bit",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 9,
+    "question": "What does the term 'quantum superposition' refer to?",
+    "topic": "Quantum Physics",
+    "options": [
+      "A particle existing in multiple states simultaneously",
+      "A particle at rest",
+      "A particle with definite properties",
+      "A particle in a classical state"
+    ],
+    "answer": "A particle existing in multiple states simultaneously",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 10,
+    "question": "What is the Pauli exclusion principle?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Electrons in the same orbital must have opposite spins",
+      "Electrons in the same orbital must have the same spin",
+      "Electrons can occupy any orbital regardless of spin",
+      "Electrons in different orbitals must have opposite spins"
+    ],
+    "answer": "Electrons in the same orbital must have opposite spins",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 11,
+    "question": "What is quantum tunneling?",
+    "topic": "Quantum Physics",
+    "options": [
+      "The ability of particles to pass through barriers that classical physics says are impenetrable",
+      "The random movement of particles",
+      "The exchange of particles between two states",
+      "The absorption of particles by a barrier"
+    ],
+    "answer": "The ability of particles to pass through barriers that classical physics says are impenetrable",
+    "subject": "Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "id": 12,
+    "question": "Who introduced the concept of quantum decoherence?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Erwin Schrödinger",
+      "Hugh Everett III",
+      "Roger Penrose",
+      "Wojciech Zurek"
+    ],
+    "answer": "Wojciech Zurek",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 13,
+    "question": "What is the role of a beam splitter in quantum optics?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Combining two beams into one",
+      "Splitting one beam into two",
+      "Reflecting light",
+      "Absorbing light"
+    ],
+    "answer": "Splitting one beam into two",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 14,
+    "question": "What is the significance of Bell's theorem?",
+    "topic": "Quantum Physics",
+    "options": [
+      "It addresses the measurement problem in quantum mechanics",
+      "It proves the completeness of quantum mechanics",
+      "It shows the impossibility of local hidden variables reproducing quantum mechanics",
+      "It establishes the existence of quantum entanglement"
+    ],
+    "answer": "It shows the impossibility of local hidden variables reproducing quantum mechanics",
+    "subject": "Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "id": 15,
+    "question": "What is the concept of quantum teleportation?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Instantaneous travel of particles",
+      "Transfer of quantum information between two distant locations using entangled particles",
+      "Change in the quantum state of a particle",
+      "Quantum communication through classical channels"
+    ],
+    "answer": "Transfer of quantum information between two distant locations using entangled particles",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 16,
+    "question": "Explain the concept of quantum superposition.",
+    "topic": "Quantum Physics",
+    "options": [
+      "A particle existing in multiple states simultaneously",
+      "A particle with definite properties",
+      "A particle at rest",
+      "A particle in a classical state"
+    ],
+    "answer": "A particle existing in multiple states simultaneously",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 17,
+    "question": "What is the role of a quantum gate in quantum computing?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Controlling the flow of classical information",
+      "Implementing classical algorithms",
+      "Performing quantum operations on qubits",
+      "Enabling quantum entanglement"
+    ],
+    "answer": "Performing quantum operations on qubits",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 18,
+    "question": "Define quantum coherence.",
+    "topic": "Quantum Physics",
+    "options": [
+      "The state of being logical and consistent",
+      "The property of a quantum system to exist in multiple states at once",
+      "The measure of uncertainty in quantum mechanics",
+      "The process of converting classical information to quantum information"
+    ],
+    "answer": "The property of a quantum system to exist in multiple states at once",
+    "subject": "Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "id": 19,
+    "question": "What is the role of entanglement in quantum communication?",
+    "topic": "Quantum Physics",
+    "options": [
+      "Ensuring classical communication security",
+      "Enabling faster-than-light communication",
+      "Establishing secure quantum key distribution",
+      "Minimizing quantum interference"
+    ],
+    "answer": "Establishing secure quantum key distribution",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 20,
+    "question": "Explain the concept of quantum indeterminacy.",
+    "topic": "Quantum Physics",
+    "options": [
+      "The unpredictability of quantum events",
+      "The certainty of quantum measurements",
+      "The ability to precisely determine both position and momentum of a particle",
+      "The repeatability of quantum experiments"
+    ],
+    "answer": "The unpredictability of quantum events",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 21,
+    "question": "What is the unit of electric charge?",
+    "topic": "Electricity",
+    "options": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Coulomb"
+    ],
+    "answer": "Coulomb",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 22,
+    "question": "State Ohm's Law.",
+    "topic": "Electricity",
+    "options": [
+      "V = IR",
+      "P = VI",
+      "I = VR",
+      "R = VI"
+    ],
+    "answer": "V = IR",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 23,
+    "question": "What is the SI unit of electric resistance?",
+    "topic": "Electricity",
+    "options": [
+      "Ohm",
+      "Ampere",
+      "Volt",
+      "Watt"
+    ],
+    "answer": "Ohm",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 24,
+    "question": "Define electric current.",
+    "topic": "Electricity",
+    "options": [
+      "The flow of electrons",
+      "The voltage across a conductor",
+      "The resistance in a circuit",
+      "The capacitance of a capacitor"
+    ],
+    "answer": "The flow of electrons",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 25,
+    "question": "What is the role of an insulator in an electrical circuit?",
+    "topic": "Electricity",
+    "options": [
+      "To conduct electricity",
+      "To store electrical energy",
+      "To amplify electrical signals",
+      "To prevent the flow of electrical current"
+    ],
+    "answer": "To prevent the flow of electrical current",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 26,
+    "question": "Explain the concept of electric power.",
+    "topic": "Electricity",
+    "options": [
+      "The rate of doing work",
+      "The voltage in a circuit",
+      "The flow of electrons",
+      "The resistance in a circuit"
+    ],
+    "answer": "The rate of doing work",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 27,
+    "question": "What is the function of a circuit breaker?",
+    "topic": "Electricity",
+    "options": [
+      "To amplify electrical signals",
+      "To control the flow of current",
+      "To store electrical energy",
+      "To convert AC to DC"
+    ],
+    "answer": "To control the flow of current",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 28,
+    "question": "Define electric potential.",
+    "topic": "Electricity",
+    "options": [
+      "The work done to move a unit charge from one point to another",
+      "The rate of doing work",
+      "The flow of electrons",
+      "The resistance in a circuit"
+    ],
+    "answer": "The work done to move a unit charge from one point to another",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 29,
+    "question": "What is the purpose of a capacitor in an electronic circuit?",
+    "topic": "Electricity",
+    "options": [
+      "To store electrical energy",
+      "To amplify electrical signals",
+      "To regulate voltage",
+      "To control the flow of current"
+    ],
+    "answer": "To store electrical energy",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 30,
+    "question": "Explain the concept of electric capacitance.",
+    "topic": "Electricity",
+    "options": [
+      "The ability of a circuit to oppose the flow of current",
+      "The storage of electrical energy in a capacitor",
+      "The voltage in a circuit",
+      "The flow of electrons"
+    ],
+    "answer": "The storage of electrical energy in a capacitor",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 31,
+    "question": "What is the role of a diode in an electrical circuit?",
+    "topic": "Electricity",
+    "options": [
+      "To amplify electrical signals",
+      "To store electrical energy",
+      "To control the flow of current",
+      "To convert AC to DC"
+    ],
+    "answer": "To control the flow of current",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 32,
+    "question": "Define electrical conductivity.",
+    "topic": "Electricity",
+    "options": [
+      "The ability of a material to conduct electricity",
+      "The storage of electrical energy",
+      "The voltage in a circuit",
+      "The flow of electrons"
+    ],
+    "answer": "The ability of a material to conduct electricity",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 33,
+    "question": "What is the purpose of a transformer in an electrical system?",
+    "topic": "Electricity",
+    "options": [
+      "To amplify electrical signals",
+      "To store electrical energy",
+      "To convert AC to DC",
+      "To change voltage levels"
+    ],
+    "answer": "To change voltage levels",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 34,
+    "question": "Explain the concept of electrical resistance.",
+    "topic": "Electricity",
+    "options": [
+      "The ability of a material to conduct electricity",
+      "The opposition to the flow of current",
+      "The voltage in a circuit",
+      "The flow of electrons"
+    ],
+    "answer": "The opposition to the flow of current",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 35,
+    "question": "What is the purpose of an inductor in an electrical circuit?",
+    "topic": "Electricity",
+    "options": [
+      "To amplify electrical signals",
+      "To store electrical energy",
+      "To regulate voltage",
+      "To oppose changes in current"
+    ],
+    "answer": "To oppose changes in current",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 36,
+    "question": "Define electrical power.",
+    "topic": "Electricity",
+    "options": [
+      "The rate of doing work",
+      "The storage of electrical energy",
+      "The voltage in a circuit",
+      "The flow of electrons"
+    ],
+    "answer": "The rate of doing work",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 37,
+    "question": "What is the purpose of a resistor in an electrical circuit?",
+    "topic": "Electricity",
+    "options": [
+      "To amplify electrical signals",
+      "To store electrical energy",
+      "To regulate voltage",
+      "To oppose the flow of current"
+    ],
+    "answer": "To oppose the flow of current",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 38,
+    "question": "Explain the concept of electric circuit.",
+    "topic": "Electricity",
+    "options": [
+      "A closed loop through which electric current can flow",
+      "The voltage in a circuit",
+      "The flow of electrons",
+      "The resistance in a circuit"
+    ],
+    "answer": "A closed loop through which electric current can flow",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 39,
+    "question": "What is the function of a fuse in an electrical circuit?",
+    "topic": "Electricity",
+    "options": [
+      "To amplify electrical signals",
+      "To store electrical energy",
+      "To control the flow of current",
+      "To protect against overcurrent"
+    ],
+    "answer": "To protect against overcurrent",
+    "subject": "Physics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 40,
+    "question": "Define electric circuit theory.",
+    "topic": "Electricity",
+    "options": [
+      "A branch of physics that deals with circuits",
+      "The voltage in a circuit",
+      "The flow of electrons",
+      "The resistance in a circuit"
+    ],
+    "answer": "A branch of physics that deals with circuits",
+    "subject": "Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 41,
+    "question": "Solve for x: 2x + 5 = 11",
+    "topic": "Algebra",
+    "options": [
+      "x = 3",
+      "x = 2",
+      "x = 6",
+      "x = 4"
+    ],
+    "answer": "x = 3",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 42,
+    "question": "Factorize the expression: x^2 - 9",
+    "topic": "Algebra",
+    "options": [
+      "(x + 3)(x - 3)",
+      "(x - 2)(x + 2)",
+      "(x - 1)(x + 1)",
+      "(x + 4)(x - 4)"
+    ],
+    "answer": "(x + 3)(x - 3)",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 43,
+    "question": "Simplify: 4x + 2x - 7x + 5",
+    "topic": "Algebra",
+    "options": [
+      "-x - 2",
+      "-x + 2",
+      "-x + 12",
+      "3x - 2"
+    ],
+    "answer": "-x + 2",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 44,
+    "question": "Solve the equation: 3(x - 4) = 2x + 6",
+    "topic": "Algebra",
+    "options": [
+      "x = 10",
+      "x = 8",
+      "x = 6",
+      "x = 4"
+    ],
+    "answer": "x = 8",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 45,
+    "question": "Expand and simplify: (2a - 3b)^2",
+    "topic": "Algebra",
+    "options": [
+      "4a^2 - 9b^2",
+      "4a^2 - 6ab + 9b^2",
+      "4a^2 + 6ab + 9b^2",
+      "4a^2 - 12ab + 9b^2"
+    ],
+    "answer": "4a^2 - 6ab + 9b^2",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 46,
+    "question": "Solve for y: 2y/3 - 5 = 7",
+    "topic": "Algebra",
+    "options": [
+      "y = 18",
+      "y = 16",
+      "y = 15",
+      "y = 12"
+    ],
+    "answer": "y = 18",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 47,
+    "question": "Simplify: 5(x - 2) - 3(2x + 1)",
+    "topic": "Algebra",
+    "options": [
+      "7x - 8",
+      "7x - 5",
+      "7x - 11",
+      "7x - 2"
+    ],
+    "answer": "7x - 11",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 48,
+    "question": "Factorize the quadratic expression: 6x^2 - 11x + 3",
+    "topic": "Algebra",
+    "options": [
+      "(2x - 1)(3x - 3)",
+      "(2x - 3)(3x - 1)",
+      "(2x + 1)(3x - 3)",
+      "(2x + 3)(3x - 1)"
+    ],
+    "answer": "(2x - 1)(3x - 3)",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 49,
+    "question": "Solve for x: x^2 - 6x + 9 = 0",
+    "topic": "Algebra",
+    "options": [
+      "x = 3",
+      "x = 6",
+      "x = 9",
+      "x = -3"
+    ],
+    "answer": "x = 3",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 50,
+    "question": "If 2x - 5 = 3, what is the value of x?",
+    "topic": "Algebra",
+    "options": [
+      "x = -1",
+      "x = 2",
+      "x = 4",
+      "x = 1"
+    ],
+    "answer": "x = 4",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 51,
+    "question": "Simplify: 2(3a - 4) - 5(2 - a)",
+    "topic": "Algebra",
+    "options": [
+      "11a + 14",
+      "-11a + 14",
+      "11a - 14",
+      "-11a - 14"
+    ],
+    "answer": "11a + 14",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "id": 52,
+    "question": "Factorize: x^2 + 5x + 6",
+    "topic": "Algebra",
+    "options": [
+      "(x + 2)(x + 3)",
+      "(x + 1)(x + 6)",
+      "(x + 3)(x + 2)",
+      "(x - 1)(x - 6)"
+    ],
+    "answer": "(x + 2)(x + 3)",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 53,
+    "question": "Solve the inequality: 2x - 7 > 5",
+    "topic": "Algebra",
+    "options": [
+      "x < 6",
+      "x > 6",
+      "x < -6",
+      "x > -6"
+    ],
+    "answer": "x > 6",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 54,
+    "question": "Find the value of a: 3(a - 2) = 2a + 1",
+    "topic": "Algebra",
+    "options": [
+      "a = -3",
+      "a = -1",
+      "a = 1",
+      "a = 3"
+    ],
+    "answer": "a = -3",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 55,
+    "question": "Simplify: 4(x + 3) - 2(2x - 5)",
+    "topic": "Algebra",
+    "options": [
+      "-2x - 7",
+      "-6x + 23",
+      "-2x + 23",
+      "-6x - 7"
+    ],
+    "answer": "-2x + 23",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 56,
+    "question": "Solve for y: 3(y + 2) = 2y - 1",
+    "topic": "Algebra",
+    "options": [
+      "y = -5",
+      "y = -3",
+      "y = 5",
+      "y = 3"
+    ],
+    "answer": "y = -5",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 57,
+    "question": "Factorize: x^2 - 5x + 6",
+    "topic": "Algebra",
+    "options": [
+      "(x - 2)(x - 3)",
+      "(x + 2)(x - 3)",
+      "(x - 1)(x + 6)",
+      "(x + 1)(x - 6)"
+    ],
+    "answer": "(x - 2)(x - 3)",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "id": 58,
+    "question": "Solve for x: 2x/3 + 4 = 8",
+    "topic": "Algebra",
+    "options": [
+      "x = 9",
+      "x = 12",
+      "x = 6",
+      "x = 15"
+    ],
+    "answer": "x = 6",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 59,
+    "question": "Simplify: 3(2x - 5) + 2(3x + 1)",
+    "topic": "Algebra",
+    "options": [
+      "12x - 5",
+      "12x - 9",
+      "12x + 5",
+      "12x + 9"
+    ],
+    "answer": "12x - 9",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 60,
+    "question": "If 4a - 7 = 5, what is the value of a?",
+    "topic": "Algebra",
+    "options": [
+      "a = 3",
+      "a = 2",
+      "a = 4",
+      "a = 1"
+    ],
+    "answer": "a = 3",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "marks": 15
+  },
+  {
+    "id": 61,
+    "subject": "Physics",
+    "topic": "Matter",
+    "question": "Which change in state is illustrated?",
+    "options": [
+      "Melting",
+      "Freezing",
+      "Evaporation",
+      "Condensation"
+    ],
+    "answer": "Melting",
+    "difficulty": "Easy",
+    "image": "https://i.ibb.co/8cc1yhn/0cef9089bf3b8f735e67158f53b5f728.png",
+    "marks": 5
+  },
+  {
+    "id": 62,
+    "subject": "Biology",
+    "question": "what is the mitochondria used for?",
+    "topic": "Cell and it&#x27;s environment",
+    "options": [
+      "Power",
+      "Energy",
+      "DNA synthesis",
+      "Experiment"
+    ],
+    "answer": "Power",
+    "difficulty": "Medium",
+    "marks": 10
+  }
+]
