@@ -345,6 +345,7 @@ app.post('/question/edit/:id',upload.single('image'),questionValidator, (req,res
           answer,
           difficulty,
           marks,
+          image: response.data.data.url
       };
 
       fs.writeFile('./data/questions.json', JSON.stringify(questions, null, 2), 'utf8', (err) => {
